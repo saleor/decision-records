@@ -7,10 +7,10 @@ Summary: What's our take on Saleor authorization, how much we'd like to invest i
 
 ## Current status
 
-Saleor Cloud users can use login & password to sign in to Dashboard. We also have an OIDC plugin. There was also the concept of Auth API or External Auth API mentioned in a few places. This document is going to outline the general direction and approach of what we want to do with authorisation.
+Saleor Cloud users can use login & password to sign in to Dashboard. We also have an OIDC plugin. There was also the concept of Auth API or External Auth API mentioned in a few places. This document is going to outline the general direction and approach of what we want to do with authorization.
 
 ## TL;DR
-✨ The general recommendation for our community is to use external authorisation services through OpenID Connect (OIDC).
+✨ The general recommendation for our community is to use external authorization services through OpenID Connect (OIDC).
 
 ## Saleor’s builtin auth
 
