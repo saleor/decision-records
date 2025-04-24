@@ -14,7 +14,7 @@
   <a href="https://discord.gg/unUfh24R6d">💬 Discord</a>
 </div>
 
-## Quo valid Saleor?
+## Quo vadis Saleor?
 In the spirit of transparency we are opening up our internal decision making process. When making a decision around how to fix a bug or introduce even a small change in the code you need to know what is the overall aim. Internally we write down those decisions. Even if these are implicit decisions done a few years ago, we are backfilling those and getting them up to date.
 
 ## How decisions are made in Saleor?
