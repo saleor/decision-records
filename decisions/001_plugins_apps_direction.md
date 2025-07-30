@@ -37,7 +37,7 @@ The list of supported apps is up to date on Dashboard. [apps.saleor.io](http://a
 - Adyen - we have an app replacement for Cloud users, we want to remove the plugin as soon as possible
 - Authorize.net - we have an app replacement example in [saleor/saleor-app-payment-authorize.net](https://github.com/saleor/saleor-app-payment-authorize.net)
 - braintree - intended to be replaced by an app
-- np_atobarai - we do not intend to build a replacement, and we want to remove it as soon as possible
+- np_atobarai - intended to be replaced by an app
 - razorpay - we do not intend to build a replacement, and we want to remove it as soon as possible
 - stripe - we are building an open-source app replacement in [saleor/apps](https://github.com/saleor/apps/tree/main/apps/stripe)
 - admin_email - will be folded into [saleor/saleor](https://github.com/saleor/saleor) code
