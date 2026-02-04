@@ -45,3 +45,4 @@ The list of supported apps is up to date on Dashboard. [apps.saleor.io](http://a
 - openid_connect - will likely be replaced by an External Auth API and folded into [saleor/saleor](https://github.com/saleor/saleor) core code
 - sendgrid - there is an app replacement [saleor/apps](https://github.com/saleor/apps/tree/main/apps/smtp)
 - user_email - there is an app replacement in [saleor/apps](https://github.com/saleor/apps/tree/main/apps/smtp)
+- webhook - will be folded into [saleor/saleor](https://github.com/saleor/saleor) code 
